@@ -1,0 +1,26 @@
+C:\Users\Adam\Documents\0 - Current\Rowing Program\PaceCalculator\PaceCalculator\bin\Debug\PaceCalculator.exe.config
+C:\Users\Adam\Documents\0 - Current\Rowing Program\PaceCalculator\PaceCalculator\bin\Debug\PaceCalculator.exe
+C:\Users\Adam\Documents\0 - Current\Rowing Program\PaceCalculator\PaceCalculator\bin\Debug\PaceCalculator.pdb
+C:\Users\Adam\Documents\0 - Current\Rowing Program\PaceCalculator\PaceCalculator\obj\Debug\PaceCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\0 - Current\Rowing Program\PaceCalculator\PaceCalculator\obj\Debug\PaceCalculator.Form1.resources
+C:\Users\Adam\Documents\0 - Current\Rowing Program\PaceCalculator\PaceCalculator\obj\Debug\PaceCalculator.Properties.Resources.resources
+C:\Users\Adam\Documents\0 - Current\Rowing Program\PaceCalculator\PaceCalculator\obj\Debug\PaceCalculator.csproj.GenerateResource.Cache
+C:\Users\Adam\Documents\0 - Current\Rowing Program\PaceCalculator\PaceCalculator\obj\Debug\PaceCalculator.exe
+C:\Users\Adam\Documents\0 - Current\Rowing Program\PaceCalculator\PaceCalculator\obj\Debug\PaceCalculator.pdb
+C:\Users\Adam\Documents\0 - Current\Rowing Program\PaceCalculator\PaceCalculator\bin\Debug\PaceCalculator.exe.manifest
+C:\Users\Adam\Documents\0 - Current\Rowing Program\PaceCalculator\PaceCalculator\bin\Debug\PaceCalculator.application
+C:\Users\Adam\Documents\0 - Current\Rowing Program\PaceCalculator\PaceCalculator\obj\Debug\PaceCalculator.exe.manifest
+C:\Users\Adam\Documents\0 - Current\Rowing Program\PaceCalculator\PaceCalculator\obj\Debug\PaceCalculator.application
+C:\Users\Adam\Documents\0-Current\Rowing Program\PaceCalculator\PaceCalculator\bin\Debug\PaceCalculator.exe.config
+C:\Users\Adam\Documents\0-Current\Rowing Program\PaceCalculator\PaceCalculator\obj\Debug\PaceCalculator.exe
+C:\Users\Adam\Documents\0-Current\Rowing Program\PaceCalculator\PaceCalculator\obj\Debug\PaceCalculator.pdb
+C:\Users\Adam\Documents\0-Current\Rowing Program\PaceCalculator\PaceCalculator\bin\Debug\PaceCalculator.exe.manifest
+C:\Users\Adam\Documents\0-Current\Rowing Program\PaceCalculator\PaceCalculator\bin\Debug\PaceCalculator.application
+C:\Users\Adam\Documents\0-Current\Rowing Program\PaceCalculator\PaceCalculator\bin\Debug\PaceCalculator.exe
+C:\Users\Adam\Documents\0-Current\Rowing Program\PaceCalculator\PaceCalculator\bin\Debug\PaceCalculator.pdb
+C:\Users\Adam\Documents\0-Current\Rowing Program\PaceCalculator\PaceCalculator\obj\Debug\PaceCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\0-Current\Rowing Program\PaceCalculator\PaceCalculator\obj\Debug\PaceCalculator.Form1.resources
+C:\Users\Adam\Documents\0-Current\Rowing Program\PaceCalculator\PaceCalculator\obj\Debug\PaceCalculator.Properties.Resources.resources
+C:\Users\Adam\Documents\0-Current\Rowing Program\PaceCalculator\PaceCalculator\obj\Debug\PaceCalculator.csproj.GenerateResource.Cache
+C:\Users\Adam\Documents\0-Current\Rowing Program\PaceCalculator\PaceCalculator\obj\Debug\PaceCalculator.exe.manifest
+C:\Users\Adam\Documents\0-Current\Rowing Program\PaceCalculator\PaceCalculator\obj\Debug\PaceCalculator.application

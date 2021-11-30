@@ -1,0 +1,12 @@
+C:\Users\Adam\Documents\0-Current\Rowing Program\PaceCalculator\PaceCalculator\bin\Release\PaceCalculator.exe.config
+C:\Users\Adam\Documents\0-Current\Rowing Program\PaceCalculator\PaceCalculator\bin\Release\PaceCalculator.exe.manifest
+C:\Users\Adam\Documents\0-Current\Rowing Program\PaceCalculator\PaceCalculator\bin\Release\PaceCalculator.application
+C:\Users\Adam\Documents\0-Current\Rowing Program\PaceCalculator\PaceCalculator\bin\Release\PaceCalculator.exe
+C:\Users\Adam\Documents\0-Current\Rowing Program\PaceCalculator\PaceCalculator\bin\Release\PaceCalculator.pdb
+C:\Users\Adam\Documents\0-Current\Rowing Program\PaceCalculator\PaceCalculator\obj\Release\PaceCalculator.Form1.resources
+C:\Users\Adam\Documents\0-Current\Rowing Program\PaceCalculator\PaceCalculator\obj\Release\PaceCalculator.Properties.Resources.resources
+C:\Users\Adam\Documents\0-Current\Rowing Program\PaceCalculator\PaceCalculator\obj\Release\PaceCalculator.csproj.GenerateResource.Cache
+C:\Users\Adam\Documents\0-Current\Rowing Program\PaceCalculator\PaceCalculator\obj\Release\PaceCalculator.exe.manifest
+C:\Users\Adam\Documents\0-Current\Rowing Program\PaceCalculator\PaceCalculator\obj\Release\PaceCalculator.application
+C:\Users\Adam\Documents\0-Current\Rowing Program\PaceCalculator\PaceCalculator\obj\Release\PaceCalculator.exe
+C:\Users\Adam\Documents\0-Current\Rowing Program\PaceCalculator\PaceCalculator\obj\Release\PaceCalculator.pdb
